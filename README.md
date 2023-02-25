@@ -1,21 +1,15 @@
-# coc8640b4ab7ea074c56f6bdc
+Using Client-Side JS, was able to make use of localStorage object to make sure the data persists even after the browsers is closed and reopened.
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+![image](https://user-images.githubusercontent.com/74442857/221331422-dd3921a6-ea79-499b-b660-8e1db0e2e98f.png)
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+######Instructions on Installtion and Use: 
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Clone the files to your local directory.
+- Goto chrome://extensions/ on Google Chrome
+- Toggle the Developer mode switch on the top-right on.
+- Click on "Load Unpacked" button on the top left.
+- Select the folder containing all the files and you are good to go.
 
-Happy Coding!
+Make sure all files are extracted first.
